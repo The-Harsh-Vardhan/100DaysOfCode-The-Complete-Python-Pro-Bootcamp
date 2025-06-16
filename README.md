@@ -52,7 +52,7 @@ If you're on the same path, feel free to fork this repo, use it as a reference, 
 
 - 📍 Upcoming: GUI apps using Tkinter, Web scraping, APIs, and Flask!
 - 🧪 Weekly mini-projects and refactoring.
-- 💬 Sharing learnings on [X]([https://twitter.com](https://x.com/harshvardhann77)).
+- 💬 Sharing learnings on [X](https://x.com/harshvardhann77)
 
 ---
 
