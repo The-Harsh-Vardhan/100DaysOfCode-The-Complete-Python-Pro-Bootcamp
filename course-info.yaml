@@ -29,7 +29,7 @@ additional_files:
   - name: .idea/inspectionProfiles/Default.xml
   - name: .idea/inspectionProfiles/Project_Default.xml
   - name: .idea/inspectionProfiles/profiles_settings.xml
-  - name: Day 3/__init__.py
+  - name: Day 3/main.py
 mode: Study
 feedback_link: https://plugins.jetbrains.com/plugin/25212-100-days-of-code--the-complete-python-pro-bootcamp/reviews
 yaml_version: 2
