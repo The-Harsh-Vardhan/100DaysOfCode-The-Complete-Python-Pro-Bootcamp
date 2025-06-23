@@ -52,7 +52,7 @@ miss_sound = pygame.mixer.Sound("miss.mp3")
 
 while game_is_on:
 
-    time.sleep(0.1)
+    time.sleep(0.06)
     screen.update()
     ball.move()
 
